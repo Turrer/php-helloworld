@@ -6,6 +6,6 @@
  <?php echo '<p>Hello World</p>'; ?> 
  <?php echo '<p>Esto es una prueba</p>'; ?> 
  <?php echo '<p>Jugando</p>'; ?> 
- <?php echo '<p>Haciendo el tonto</p>'; ?> 
+ <?php echo '<p>Haciendo el tonto con Nati e Isabel</p>'; ?> 
  </body>
 </html>
